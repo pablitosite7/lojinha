@@ -1,2 +1,2 @@
-# lojinha
+# Lojinha
 Lojinha virtual!
